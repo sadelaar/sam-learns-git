@@ -1,0 +1,6 @@
+site_name: Sam's website
+
+nav:
+  - Home: 'index.md'
+  - Resume: 'resume.md'
+

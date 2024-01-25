@@ -1,5 +1,8 @@
 site_name: Sam's website
 
+theme:
+ name: mkdocs
+
 nav:
   - Home: 'index.md'
   - Resume: 'resume.md'

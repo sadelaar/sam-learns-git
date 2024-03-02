@@ -1,7 +1,7 @@
-site_name: Sam's website
+site_name: Where Sam learns Markdown
 
 theme:
- name: mkdocs
+ name: simple-blog
 
 nav:
   - Home: 'index.md'

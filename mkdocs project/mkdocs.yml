@@ -6,4 +6,5 @@ theme:
 nav:
   - Home: 'index.md'
   - Resume: 'resume.md'
+  - Work samples: 'samples.md'
 

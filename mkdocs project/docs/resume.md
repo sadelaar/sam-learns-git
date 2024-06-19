@@ -58,3 +58,5 @@ January - August 2018
 **Master of Arts (MA) in Cinema and Media Studies** - York University
 
 **Bachelor of Arts (BA) in Cinema and Media Studies** - York University
+
+**Bachelor of Science (BSc) in Medicinal Chemistry** - University of Ottawa

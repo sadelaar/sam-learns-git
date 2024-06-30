@@ -11,8 +11,7 @@
         {
             "label": "mkdocs deploy",
             "type": "shell",
-            "command": "mkdocs gh-deploy",
-            "options": {"shell": {"executable": "cmd"}}
+            "command": "mkdocs gh-deploy"
         }
     ]
 }

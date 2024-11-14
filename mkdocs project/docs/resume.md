@@ -1,4 +1,8 @@
 
+This is both a version of my resume and an illustration of my ability to apply Markdown syntax to text.
+
+***
+
 # Samuel Adelaar
 
 Technical writer

@@ -2,7 +2,9 @@ Here, you can check out samples of my work as a technical writer.
 
 ##  Instruction manual
 
-By opening the following link, you'll find an instruction manual that I planned, researched, structured, and wrote while pursuing a graduate certificate in technical communication: [Writing REST API documentation: a manual for technical writers](files/Writing REST API documentation - Samuel Adelaar (2).pdf).
+Have a look at an instruction manual that I planned, researched, structured, and wrote while pursuing a graduate certificate in technical communication:
+
+![Writing REST API documentation: a manual for technical writers](files/Writing REST API documentation - Samuel Adelaar (2).pdf){ type=application/pdf style="width:75%;height:50vh" }
 
 As its title suggests, the manual introduces technical writers to developing REST API documentation.
 

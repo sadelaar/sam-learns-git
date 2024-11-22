@@ -8,3 +8,10 @@ nav:
   - Resume: 'resume.md'
   - Work samples: 'samples.md'
 
+markdown_extensions:
+  - attr_list
+
+plugins:
+  - mkdocs-pdf
+
+

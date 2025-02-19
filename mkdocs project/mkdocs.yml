@@ -2,6 +2,8 @@ site_name: Where Sam learns Markdown
 
 theme:
  name: simple-blog
+ analytics:
+ gtag: G-HD7X77HX1M
 
 nav:
   - Home: 'index.md'

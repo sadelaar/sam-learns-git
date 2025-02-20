@@ -1,7 +1,7 @@
 site_name: Where Sam learns Markdown
 
 theme:
- name: simple-blog
+ name: readthedocs
  analytics:
  gtag: G-HD7X77HX1M
 

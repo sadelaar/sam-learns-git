@@ -8,4 +8,8 @@ Have a look at an instruction manual that I planned, researched, designed with A
 
 As its title suggests, the manual introduces technical writers to developing REST API documentation.
 
-Since producing this document, I've honed my skills at writing in a plain language style. At the same time, I recognize that what's paramount in technical communication is that a document should be written in a way that's tailored to its intended audience.
+Let me draw attention to the writing requirements I set for myself in the process of developing the manual. The goal of these requirements was to make the content easy to understand.
+
+This content is frequently written in the second person and the imperative mood so that it’s explicitly addressed to its reader. For the sake of clarity, it is, I believe, exclusively written in the active voice and the majority of sentences are limited to one independent clause.
+
+Looking at the manual now, I would replace some of the vocabulary I used with simpler words. At this point in my career,  I aim to write in a plain language style with terminology that my writing’s audience would be familiar with and expect. My experience at the financial institution CIBC has given me the opportunity to grow this skill.

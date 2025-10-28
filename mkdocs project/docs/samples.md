@@ -27,7 +27,7 @@ The article's topic is a digital ID that gives residents secure access to online
 
 The parameters that shaped how I created this article deserve a mention. In developing the article's content, I followed the official style guide and the knowledge base's informal conventions, which I identified over the course of my time with Maximus.
 
-One example of these informal conventions was how the imperative mood was used. In sentences with this verb mood, the verbs' subjects were not always conistent. My article deliberately follows this convention.
+One example of these informal conventions was how the imperative mood was used. In sentences with this verb mood, the verbs' subjects were not always consistent. My article deliberately follows this convention.
 
 Take note that the subject of the steps for accessing the Manage Account feature is a resident whom an agent would be helping. This grammar was chosen despite the fact that the agent would be reading this content. In the bullet points subordinate to the steps, the mood switches to indicative, a better fit with who the content's reader is.
 
